@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.conteudo-principal{
+
+    font-family: "Roboto Mono", monospace;
+    
+
+}
+
+.conteudo-livro{
+
+    font-family: "Roboto Mono", monospace;
+
+    margin: 100px;
+
+}
+
+#acaba{
+    background-color: 
+
+    
+
+}
+
+#comeca{
+
+    background-color: 
+
+    
+}
+
+#bbt{
+
+    background-color: 
+
+    
+
+}
+
+.imagens{
+    width: 400px;
+    margin:auto;
+
+}
+
+.margem{
+    text-align: center;
+}
+
+.destaque{
+    font-weight: bold;
+    color: ;
+}
